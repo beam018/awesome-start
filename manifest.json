@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+
+    "name": "Awesome start",
+    "description": "",
+    "version": "0.1",
+
+    "chrome_url_overrides" : {
+        "newtab": "newtab.html"
+    },
+
+    "permissions": [
+    ],
+
+    "browser_action": {
+    }
+}
