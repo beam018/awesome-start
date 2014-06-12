@@ -3,14 +3,11 @@
     "version": "0.0.1",
     "private": true,
     "scripts": {
-        "bower": "./node_modules/bower/bin/bower install",
-        "grunt": "./node_modules/grunt-cli/bin/grunt"
+        "bower": "./node_modules/bower/bin/bower install"
     },
     "dependencies": {
     },
     "devDependencies": {
-        "grunt": "*",
-        "grunt-cli": "*",
         "bower": "*"
     }
 }

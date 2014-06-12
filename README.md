@@ -15,7 +15,6 @@ Awesome start
 1. `npm run bower`
 
 ###Разработка
-1. `npm run grunt`
 
 ###Тестирвоание
 1. `npm test`
