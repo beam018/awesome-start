@@ -1,6 +1,20 @@
-awesome-start
+Awesome start
 =============
 
-http://developer.chrome.com/extensions/getstarted  
-http://developer.chrome.com/extensions/devguide  
-http://developer.chrome.com/extensions/manifest  
+---
+Все что ниже этой линии **не актуально**
+
+---
+
+###Подготовка
+
+Перед началом разработки нужно установить все необходимые пакет и библиотеки.
+Для этого нужно выполнить указанные команды:
+1. `npm install`
+1. `npm run bower`
+
+###Разработка
+1. `npm run grunt`
+
+###Тестирвоание
+1. `npm test`
